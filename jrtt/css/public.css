@@ -1,0 +1,13 @@
+
+*{
+	margin :0;/*body->8px*/
+	text-decoration: none;
+	padding: 0;/*ul*/
+	list-style: none;
+	padding: 0;
+}
+/*img默认有border大小，需要清除*/
+img{
+	border: 0;
+	display: block;
+}
